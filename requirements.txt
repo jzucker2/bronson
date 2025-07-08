@@ -2,7 +2,7 @@ annotated-types==0.7.0
 anyio==4.9.0
 certifi==2025.6.15
 click==8.2.1
-fastapi==0.115.14
+fastapi==0.116.0
 h11==0.16.0
 httpcore==1.0.9
 httptools==0.6.4
